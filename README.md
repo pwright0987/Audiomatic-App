@@ -2,11 +2,12 @@
 Computer software that helps to generate audio voice tags for Rees Scientific Laboratory Sensors
 
 - Effectively converts text in a formatted excel file to the desired audio output style of the users choice
+- Allows for parameters like voice actor, pitch, reading speed, volume, and audio sampling rate
 - Prompts user to browse for excel file on their computer
 - Prompts user to browse for destination directory for audio files
 - Allows user to select which sheet from the excel file to convert
 - Displays the progress of the conversion in real time to allow the user to understand whats happening
-- Written in python using tkinter, pandas, openpyxl, and an ibm TTS module
+- Written in python using tkinter, pandas, openpyxl, pydub, and an ibm TTS module
 - Photos of usage shown below
 
 ### Software Before Use
